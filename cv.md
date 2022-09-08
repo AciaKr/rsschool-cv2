@@ -5,7 +5,7 @@
 ## Contacts
 **Phone:** +375 29 767-44-92
 **E-mail:** krasnastassia@gmail.com
-**GitHub:** AciaKr (https://github.com/AciaKr "link GitHub")
+**GitHub:** https://github.com/AciaKr
 **Discord:** Acia (@AciaKr)
 **********************
 ## About Me
