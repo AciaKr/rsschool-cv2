@@ -1,10 +1,10 @@
 # Krasutskaya Nastassia
 **********************
 ## Contacts
-**Phone:** +375 29 767-44-92
-**E-mail:** krasnastassia@gmail.com
-**GitHub:** https://github.com/AciaKr
-**Discord:** Acia (@AciaKr)
+* **Phone:** +375 29 767-44-92
+* **E-mail:** krasnastassia@gmail.com
+* **GitHub:** https://github.com/AciaKr
+* **Discord:** Acia (@AciaKr)
 
 ## About Me
 I want to study in Rsschool and become a good Front-End developer.
