@@ -1,1 +1,1 @@
-# rsschool-cv
+#AciaKr-JS2022Q3
